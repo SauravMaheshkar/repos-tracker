@@ -10,7 +10,7 @@ on:
   schedule:
     - cron: "0 0 * * 0"
 
-env:  
+env:
   GITHUB_ACCESS_TOKEN: ${{ secrets.REPOS_TRACKER }}
 
 jobs:
