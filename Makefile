@@ -12,12 +12,12 @@ clean:
 
 ## Testing
 test:
-	pytest -v .
+	pytest --durations=0 -vv .
 
 ## Basic linting
 lint:
-	black src
-	isort src --profile=black
+	black src tests
+	isort src tests --profile=black
 	mypy src
 	pylint src
 
