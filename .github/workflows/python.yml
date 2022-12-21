@@ -10,6 +10,9 @@ on:
   schedule:
     - cron: "0 0 * * 0"
 
+env:
+  GITHUB_ACCESS_TOKEN: ${{ secrets.REPOS_TRACKER }}
+
 jobs:
   build:
     runs-on: ${{ matrix.os }}
