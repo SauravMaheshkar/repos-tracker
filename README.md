@@ -1,4 +1,104 @@
-| Name                                                                                                                                    |
+
+<details>
+<summary>tracker-self-supervised-learning</summary>
+<br>
+
+| Repository Name                                                                         |
+|:----------------------------------------------------------------------------------------|
+| [dino](https://github.com/SauravMaheshkar/dino)                                         |
+| [Self-Supervised-Learning](https://github.com/SauravMaheshkar/Self-Supervised-Learning) |
+| [SSL-Graphs](https://github.com/SauravMaheshkar/SSL-Graphs)                             |
+
+</details>
+<br>
+<br>
+
+<details>
+<summary>tracker-geometric-learning</summary>
+<br>
+
+| Repository Name                                                                         |
+|:----------------------------------------------------------------------------------------|
+| [cwn](https://github.com/SauravMaheshkar/cwn)                                           |
+| [egnn](https://github.com/SauravMaheshkar/egnn)                                         |
+| [gnn-lspe](https://github.com/SauravMaheshkar/gnn-lspe)                                 |
+| [GraphMLP-Flax](https://github.com/SauravMaheshkar/GraphMLP-Flax)                       |
+| [NBFNet](https://github.com/SauravMaheshkar/NBFNet)                                     |
+| [Representative-Selection](https://github.com/SauravMaheshkar/Representative-Selection) |
+| [SSL-Graphs](https://github.com/SauravMaheshkar/SSL-Graphs)                             |
+
+</details>
+<br>
+<br>
+
+<details>
+<summary>tracker-knowledge-distillation</summary>
+<br>
+
+| Repository Name                                                                     |
+|:------------------------------------------------------------------------------------|
+| [FNet-Flax](https://github.com/SauravMaheshkar/FNet-Flax)                           |
+| [gMLP](https://github.com/SauravMaheshkar/gMLP)                                     |
+| [Knowledge-Distillation](https://github.com/SauravMaheshkar/Knowledge-Distillation) |
+| [MLP-Mixer](https://github.com/SauravMaheshkar/MLP-Mixer)                           |
+| [ResMLP-Flax](https://github.com/SauravMaheshkar/ResMLP-Flax)                       |
+
+</details>
+<br>
+<br>
+
+<details>
+<summary>tracker-implicit-representations</summary>
+<br>
+
+| Repository Name                                 |
+|:------------------------------------------------|
+| [NeRF](https://github.com/SauravMaheshkar/NeRF) |
+
+</details>
+<br>
+<br>
+
+<details>
+<summary>tracker-kaggle</summary>
+<br>
+
+| Repository Name                                                                                 |
+|:------------------------------------------------------------------------------------------------|
+| [ai4code](https://github.com/SauravMaheshkar/ai4code)                                           |
+| [chaii-Hindi-Tamil-QA](https://github.com/SauravMaheshkar/chaii-Hindi-Tamil-QA)                 |
+| [CommonLit-Readibility](https://github.com/SauravMaheshkar/CommonLit-Readibility)               |
+| [Feedback-Effective-Arguments](https://github.com/SauravMaheshkar/Feedback-Effective-Arguments) |
+| [HuBMAP-HPA](https://github.com/SauravMaheshkar/HuBMAP-HPA)                                     |
+| [paww](https://github.com/SauravMaheshkar/paww)                                                 |
+| [RSNA-MICCAI](https://github.com/SauravMaheshkar/RSNA-MICCAI)                                   |
+| [UWMGI](https://github.com/SauravMaheshkar/UWMGI)                                               |
+
+</details>
+<br>
+<br>
+
+<details>
+<summary>tracker-bioinformatics</summary>
+<br>
+
+| Repository Name                                                                         |
+|:----------------------------------------------------------------------------------------|
+| [FNet-Flax](https://github.com/SauravMaheshkar/FNet-Flax)                               |
+| [gMLP](https://github.com/SauravMaheshkar/gMLP)                                         |
+| [MLP-Mixer](https://github.com/SauravMaheshkar/MLP-Mixer)                               |
+| [Radiology-Classification](https://github.com/SauravMaheshkar/Radiology-Classification) |
+| [ResMLP-Flax](https://github.com/SauravMaheshkar/ResMLP-Flax)                           |
+
+</details>
+<br>
+<br>
+
+<details>
+<summary>tracker-misc</summary>
+<br>
+
+| Repository Name                                                                                                                         |
 |:----------------------------------------------------------------------------------------------------------------------------------------|
 | [Art-Integration](https://github.com/SauravMaheshkar/Art-Integration)                                                                   |
 | [Auto-Completion-using-N-Gram-Models](https://github.com/SauravMaheshkar/Auto-Completion-using-N-Gram-Models)                           |
@@ -23,3 +123,22 @@
 | [SauravMaheshkar](https://github.com/SauravMaheshkar/SauravMaheshkar)                                                                   |
 | [sauravmaheshkar.github.io](https://github.com/SauravMaheshkar/sauravmaheshkar.github.io)                                               |
 | [X-Ray-Image-Classification](https://github.com/SauravMaheshkar/X-Ray-Image-Classification)                                             |
+
+</details>
+<br>
+<br>
+
+<details>
+<summary>tracker-temp</summary>
+<br>
+
+| Repository Name                                                                                   |
+|:--------------------------------------------------------------------------------------------------|
+| [Accelerator-wandb-Tensorboard](https://github.com/SauravMaheshkar/Accelerator-wandb-Tensorboard) |
+| [dream-bench](https://github.com/SauravMaheshkar/dream-bench)                                     |
+| [Initialization](https://github.com/SauravMaheshkar/Initialization)                               |
+| [trax](https://github.com/SauravMaheshkar/trax)                                                   |
+
+</details>
+<br>
+<br>
