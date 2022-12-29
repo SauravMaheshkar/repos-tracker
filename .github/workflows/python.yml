@@ -1,12 +1,12 @@
-name: "Build and Tests"
+name: "CI (Update README)"
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
   release:
-    types: [ created ]
+    types: [created]
   schedule:
     - cron: "0 0 * * 0"
 
@@ -15,28 +15,39 @@ env:
 
 jobs:
   build:
-    runs-on: ${{ matrix.os }}
-
-    strategy:
-      matrix:
-        python-version: [ '3.8','3.9', '3.10' ]
-        os: [ubuntu-latest, windows-latest, macos-latest]
+    runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
-      - name: Setup Python ${{ matrix.python-version }}
+      - name: checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Python 3.8
         uses: actions/setup-python@v4
         with:
-          python-version: ${{ matrix.python-version }}
-          cache: 'pip'
+          python-version: "3.8"
+          cache: "pip"
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip wheel setuptools
           python -m pip install -r requirements.txt
+
       - name: Lint with pylint
         run: |
           pylint src
+
       - name: Test with PyTest
         run: |
           pytest -v .
+
+      - name: Configure Git
+        run: |
+          git config user.name "Repository Tracker"
+          git config user.email "<>"
+
+      - name: Update README
+        run: |
+          python -m src.main
+          git add *
+          git commit -m "chore: update README"
+          git push origin main
