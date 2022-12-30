@@ -48,6 +48,11 @@ jobs:
       - name: Update README
         run: |
           python -m src.main
-          git add README.md
-          git commit -m "chore: update README"
-          git push origin main
+
+      - name: Commit and push changes
+        uses: devops-infra/action-commit-push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_prefix: "docs: "
+          commit_message: "update README"
+          target_branch: main
