@@ -40,19 +40,12 @@ jobs:
         run: |
           pytest -v .
 
-      - name: Configure Git
-        run: |
-          git config user.name "Repository Tracker"
-          git config user.email "<>"
-
       - name: Update README
         run: |
           python -m src.main
 
       - name: Commit and push changes
-        uses: devops-infra/action-commit-push@master
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          commit_prefix: "docs: "
-          commit_message: "update README"
-          target_branch: main
+          commit_message: Update README
+
