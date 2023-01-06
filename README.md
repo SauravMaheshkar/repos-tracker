@@ -138,7 +138,6 @@
 | [dream-bench](https://github.com/SauravMaheshkar/dream-bench)                                     |
 | [examples](https://github.com/SauravMaheshkar/examples)                                           |
 | [Initialization](https://github.com/SauravMaheshkar/Initialization)                               |
-| [ott](https://github.com/SauravMaheshkar/ott)                                                     |
 | [trax](https://github.com/SauravMaheshkar/trax)                                                   |
 
 </details>
