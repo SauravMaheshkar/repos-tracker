@@ -138,6 +138,8 @@
 | [dream-bench](https://github.com/SauravMaheshkar/dream-bench)                                     |
 | [examples](https://github.com/SauravMaheshkar/examples)                                           |
 | [Initialization](https://github.com/SauravMaheshkar/Initialization)                               |
+| [perses](https://github.com/SauravMaheshkar/perses)                                               |
+| [t5x](https://github.com/SauravMaheshkar/t5x)                                                     |
 | [trax](https://github.com/SauravMaheshkar/trax)                                                   |
 
 </details>
