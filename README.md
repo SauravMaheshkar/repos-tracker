@@ -106,7 +106,6 @@
 | [Compressed-DNNs-Forget](https://github.com/SauravMaheshkar/Compressed-DNNs-Forget)                                                     |
 | [CoxPH-Model-for-Primary-Biliary-Cirrhosis](https://github.com/SauravMaheshkar/CoxPH-Model-for-Primary-Biliary-Cirrhosis)               |
 | [Cross-Matching-Methods-for-Astronomical-Catalogs](https://github.com/SauravMaheshkar/Cross-Matching-Methods-for-Astronomical-Catalogs) |
-| [CryptoCat-Pwn-Series](https://github.com/SauravMaheshkar/CryptoCat-Pwn-Series)                                                         |
 | [dotfiles](https://github.com/SauravMaheshkar/dotfiles)                                                                                 |
 | [flax-package-template](https://github.com/SauravMaheshkar/flax-package-template)                                                       |
 | [Hot-Dog-Not-Hot-Dog](https://github.com/SauravMaheshkar/Hot-Dog-Not-Hot-Dog)                                                           |
