@@ -140,6 +140,7 @@
 | [perses](https://github.com/SauravMaheshkar/perses)                                               |
 | [t5x](https://github.com/SauravMaheshkar/t5x)                                                     |
 | [trax](https://github.com/SauravMaheshkar/trax)                                                   |
+| [visu3d](https://github.com/SauravMaheshkar/visu3d)                                               |
 
 </details>
 <br>
