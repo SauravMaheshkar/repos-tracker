@@ -136,6 +136,7 @@
 | [Accelerator-wandb-Tensorboard](https://github.com/SauravMaheshkar/Accelerator-wandb-Tensorboard) |
 | [dream-bench](https://github.com/SauravMaheshkar/dream-bench)                                     |
 | [examples](https://github.com/SauravMaheshkar/examples)                                           |
+| [geoopt](https://github.com/SauravMaheshkar/geoopt)                                               |
 | [Initialization](https://github.com/SauravMaheshkar/Initialization)                               |
 | [perses](https://github.com/SauravMaheshkar/perses)                                               |
 | [t5x](https://github.com/SauravMaheshkar/t5x)                                                     |
