@@ -131,17 +131,14 @@
 <summary>tracker-temp</summary>
 <br>
 
-| Repository Name                                                                                   |
-|:--------------------------------------------------------------------------------------------------|
-| [Accelerator-wandb-Tensorboard](https://github.com/SauravMaheshkar/Accelerator-wandb-Tensorboard) |
-| [examples](https://github.com/SauravMaheshkar/examples)                                           |
-| [geoopt](https://github.com/SauravMaheshkar/geoopt)                                               |
-| [Initialization](https://github.com/SauravMaheshkar/Initialization)                               |
-| [jaxopt](https://github.com/SauravMaheshkar/jaxopt)                                               |
-| [pytorch_geometric](https://github.com/SauravMaheshkar/pytorch_geometric)                         |
-| [t5x](https://github.com/SauravMaheshkar/t5x)                                                     |
-| [trax](https://github.com/SauravMaheshkar/trax)                                                   |
-| [visu3d](https://github.com/SauravMaheshkar/visu3d)                                               |
+| Repository Name                                                     |
+|:--------------------------------------------------------------------|
+| [geoopt](https://github.com/SauravMaheshkar/geoopt)                 |
+| [Initialization](https://github.com/SauravMaheshkar/Initialization) |
+| [jaxopt](https://github.com/SauravMaheshkar/jaxopt)                 |
+| [t5x](https://github.com/SauravMaheshkar/t5x)                       |
+| [trax](https://github.com/SauravMaheshkar/trax)                     |
+| [visu3d](https://github.com/SauravMaheshkar/visu3d)                 |
 
 </details>
 <br>
