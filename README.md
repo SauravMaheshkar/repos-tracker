@@ -117,7 +117,6 @@
 | [python-template](https://github.com/SauravMaheshkar/python-template)                                                                   |
 | [RayTracing](https://github.com/SauravMaheshkar/RayTracing)                                                                             |
 | [repos-tracker](https://github.com/SauravMaheshkar/repos-tracker)                                                                       |
-| [Representative-Selection](https://github.com/SauravMaheshkar/Representative-Selection)                                                 |
 | [rtdl](https://github.com/SauravMaheshkar/rtdl)                                                                                         |
 | [SauravMaheshkar](https://github.com/SauravMaheshkar/SauravMaheshkar)                                                                   |
 | [sauravmaheshkar.github.io](https://github.com/SauravMaheshkar/sauravmaheshkar.github.io)                                               |
@@ -135,6 +134,7 @@
 |:--------------------------------------------------------------------------|
 | [geoopt](https://github.com/SauravMaheshkar/geoopt)                       |
 | [jaxopt](https://github.com/SauravMaheshkar/jaxopt)                       |
+| [lightning](https://github.com/SauravMaheshkar/lightning)                 |
 | [pytorch_geometric](https://github.com/SauravMaheshkar/pytorch_geometric) |
 | [t5x](https://github.com/SauravMaheshkar/t5x)                             |
 | [trax](https://github.com/SauravMaheshkar/trax)                           |
