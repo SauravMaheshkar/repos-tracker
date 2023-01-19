@@ -112,7 +112,6 @@
 | [infographics](https://github.com/SauravMaheshkar/infographics)                                                                         |
 | [Lane-Detection-PyTorch](https://github.com/SauravMaheshkar/Lane-Detection-PyTorch)                                                     |
 | [meta-pretraining](https://github.com/SauravMaheshkar/meta-pretraining)                                                                 |
-| [Normalization-Analysis](https://github.com/SauravMaheshkar/Normalization-Analysis)                                                     |
 | [Personal-Notes](https://github.com/SauravMaheshkar/Personal-Notes)                                                                     |
 | [python-template](https://github.com/SauravMaheshkar/python-template)                                                                   |
 | [RayTracing](https://github.com/SauravMaheshkar/RayTracing)                                                                             |
@@ -133,6 +132,7 @@
 | Repository Name                                                           |
 |:--------------------------------------------------------------------------|
 | [geoopt](https://github.com/SauravMaheshkar/geoopt)                       |
+| [ivy](https://github.com/SauravMaheshkar/ivy)                             |
 | [jaxopt](https://github.com/SauravMaheshkar/jaxopt)                       |
 | [lightning](https://github.com/SauravMaheshkar/lightning)                 |
 | [pytorch_geometric](https://github.com/SauravMaheshkar/pytorch_geometric) |
