@@ -135,6 +135,7 @@
 | [ivy](https://github.com/SauravMaheshkar/ivy)                             |
 | [jaxopt](https://github.com/SauravMaheshkar/jaxopt)                       |
 | [kfac-jax](https://github.com/SauravMaheshkar/kfac-jax)                   |
+| [langchain](https://github.com/SauravMaheshkar/langchain)                 |
 | [nerfacc](https://github.com/SauravMaheshkar/nerfacc)                     |
 | [nerfstudio](https://github.com/SauravMaheshkar/nerfstudio)               |
 | [pytorch_geometric](https://github.com/SauravMaheshkar/pytorch_geometric) |
