@@ -90,7 +90,6 @@
 | [dotfiles](https://github.com/SauravMaheshkar/dotfiles)                                                                                 |
 | [flax-package-template](https://github.com/SauravMaheshkar/flax-package-template)                                                       |
 | [Hot-Dog-Not-Hot-Dog](https://github.com/SauravMaheshkar/Hot-Dog-Not-Hot-Dog)                                                           |
-| [infographics](https://github.com/SauravMaheshkar/infographics)                                                                         |
 | [kaggle](https://github.com/SauravMaheshkar/kaggle)                                                                                     |
 | [Lane-Detection-PyTorch](https://github.com/SauravMaheshkar/Lane-Detection-PyTorch)                                                     |
 | [meta-pretraining](https://github.com/SauravMaheshkar/meta-pretraining)                                                                 |
@@ -113,6 +112,7 @@
 
 | Repository Name                                                           |
 |:--------------------------------------------------------------------------|
+| [flax](https://github.com/SauravMaheshkar/flax)                           |
 | [geoopt](https://github.com/SauravMaheshkar/geoopt)                       |
 | [ivy](https://github.com/SauravMaheshkar/ivy)                             |
 | [jaxopt](https://github.com/SauravMaheshkar/jaxopt)                       |
