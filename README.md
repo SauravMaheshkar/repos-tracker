@@ -41,7 +41,6 @@
 | [gMLP](https://github.com/SauravMaheshkar/gMLP)                                     |
 | [Knowledge-Distillation](https://github.com/SauravMaheshkar/Knowledge-Distillation) |
 | [MLP-Mixer](https://github.com/SauravMaheshkar/MLP-Mixer)                           |
-| [ResMLP-Flax](https://github.com/SauravMaheshkar/ResMLP-Flax)                       |
 
 </details>
 <br>
@@ -69,7 +68,6 @@
 | [gMLP](https://github.com/SauravMaheshkar/gMLP)                                         |
 | [MLP-Mixer](https://github.com/SauravMaheshkar/MLP-Mixer)                               |
 | [Radiology-Classification](https://github.com/SauravMaheshkar/Radiology-Classification) |
-| [ResMLP-Flax](https://github.com/SauravMaheshkar/ResMLP-Flax)                           |
 
 </details>
 <br>
