@@ -24,6 +24,7 @@
 | [gnn-lspe](https://github.com/SauravMaheshkar/gnn-lspe)                                 |
 | [GraphMLP-Flax](https://github.com/SauravMaheshkar/GraphMLP-Flax)                       |
 | [NBFNet](https://github.com/SauravMaheshkar/NBFNet)                                     |
+| [Node-Classification](https://github.com/SauravMaheshkar/Node-Classification)           |
 | [Representative-Selection](https://github.com/SauravMaheshkar/Representative-Selection) |
 | [SSL-Graphs](https://github.com/SauravMaheshkar/SSL-Graphs)                             |
 
