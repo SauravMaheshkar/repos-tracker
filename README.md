@@ -111,6 +111,7 @@
 
 | Repository Name                                                           |
 |:--------------------------------------------------------------------------|
+| [etils](https://github.com/SauravMaheshkar/etils)                         |
 | [flax](https://github.com/SauravMaheshkar/flax)                           |
 | [geoopt](https://github.com/SauravMaheshkar/geoopt)                       |
 | [ivy](https://github.com/SauravMaheshkar/ivy)                             |
