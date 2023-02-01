@@ -41,7 +41,6 @@
 | [FNet-Flax](https://github.com/SauravMaheshkar/FNet-Flax)                           |
 | [gMLP](https://github.com/SauravMaheshkar/gMLP)                                     |
 | [Knowledge-Distillation](https://github.com/SauravMaheshkar/Knowledge-Distillation) |
-| [MLP-Mixer](https://github.com/SauravMaheshkar/MLP-Mixer)                           |
 
 </details>
 <br>
@@ -67,7 +66,6 @@
 |:----------------------------------------------------------------------------------------|
 | [FNet-Flax](https://github.com/SauravMaheshkar/FNet-Flax)                               |
 | [gMLP](https://github.com/SauravMaheshkar/gMLP)                                         |
-| [MLP-Mixer](https://github.com/SauravMaheshkar/MLP-Mixer)                               |
 | [Radiology-Classification](https://github.com/SauravMaheshkar/Radiology-Classification) |
 
 </details>
