@@ -90,7 +90,6 @@
 | [rtdl](https://github.com/SauravMaheshkar/rtdl)                                                 |
 | [SauravMaheshkar](https://github.com/SauravMaheshkar/SauravMaheshkar)                           |
 | [sauravmaheshkar.github.io](https://github.com/SauravMaheshkar/sauravmaheshkar.github.io)       |
-| [X-Ray-Image-Classification](https://github.com/SauravMaheshkar/X-Ray-Image-Classification)     |
 
 </details>
 <br>
