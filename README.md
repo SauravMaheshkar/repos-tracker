@@ -74,28 +74,24 @@
 <summary>tracker-misc</summary>
 <br>
 
-| Repository Name                                                                                                                         |
-|:----------------------------------------------------------------------------------------------------------------------------------------|
-| [Art-Integration](https://github.com/SauravMaheshkar/Art-Integration)                                                                   |
-| [Auto-Completion-using-N-Gram-Models](https://github.com/SauravMaheshkar/Auto-Completion-using-N-Gram-Models)                           |
-| [binary-exploitation-template](https://github.com/SauravMaheshkar/binary-exploitation-template)                                         |
-| [Compressed-DNNs-Forget](https://github.com/SauravMaheshkar/Compressed-DNNs-Forget)                                                     |
-| [CoxPH-Model-for-Primary-Biliary-Cirrhosis](https://github.com/SauravMaheshkar/CoxPH-Model-for-Primary-Biliary-Cirrhosis)               |
-| [Cross-Matching-Methods-for-Astronomical-Catalogs](https://github.com/SauravMaheshkar/Cross-Matching-Methods-for-Astronomical-Catalogs) |
-| [dotfiles](https://github.com/SauravMaheshkar/dotfiles)                                                                                 |
-| [flax-package-template](https://github.com/SauravMaheshkar/flax-package-template)                                                       |
-| [Hot-Dog-Not-Hot-Dog](https://github.com/SauravMaheshkar/Hot-Dog-Not-Hot-Dog)                                                           |
-| [kaggle](https://github.com/SauravMaheshkar/kaggle)                                                                                     |
-| [Lane-Detection-PyTorch](https://github.com/SauravMaheshkar/Lane-Detection-PyTorch)                                                     |
-| [meta-pretraining](https://github.com/SauravMaheshkar/meta-pretraining)                                                                 |
-| [Personal-Notes](https://github.com/SauravMaheshkar/Personal-Notes)                                                                     |
-| [python-template](https://github.com/SauravMaheshkar/python-template)                                                                   |
-| [RayTracing](https://github.com/SauravMaheshkar/RayTracing)                                                                             |
-| [repos-tracker](https://github.com/SauravMaheshkar/repos-tracker)                                                                       |
-| [rtdl](https://github.com/SauravMaheshkar/rtdl)                                                                                         |
-| [SauravMaheshkar](https://github.com/SauravMaheshkar/SauravMaheshkar)                                                                   |
-| [sauravmaheshkar.github.io](https://github.com/SauravMaheshkar/sauravmaheshkar.github.io)                                               |
-| [X-Ray-Image-Classification](https://github.com/SauravMaheshkar/X-Ray-Image-Classification)                                             |
+| Repository Name                                                                                 |
+|:------------------------------------------------------------------------------------------------|
+| [binary-exploitation-template](https://github.com/SauravMaheshkar/binary-exploitation-template) |
+| [Compressed-DNNs-Forget](https://github.com/SauravMaheshkar/Compressed-DNNs-Forget)             |
+| [dotfiles](https://github.com/SauravMaheshkar/dotfiles)                                         |
+| [flax-package-template](https://github.com/SauravMaheshkar/flax-package-template)               |
+| [Hot-Dog-Not-Hot-Dog](https://github.com/SauravMaheshkar/Hot-Dog-Not-Hot-Dog)                   |
+| [kaggle](https://github.com/SauravMaheshkar/kaggle)                                             |
+| [Lane-Detection-PyTorch](https://github.com/SauravMaheshkar/Lane-Detection-PyTorch)             |
+| [meta-pretraining](https://github.com/SauravMaheshkar/meta-pretraining)                         |
+| [Personal-Notes](https://github.com/SauravMaheshkar/Personal-Notes)                             |
+| [python-template](https://github.com/SauravMaheshkar/python-template)                           |
+| [RayTracing](https://github.com/SauravMaheshkar/RayTracing)                                     |
+| [repos-tracker](https://github.com/SauravMaheshkar/repos-tracker)                               |
+| [rtdl](https://github.com/SauravMaheshkar/rtdl)                                                 |
+| [SauravMaheshkar](https://github.com/SauravMaheshkar/SauravMaheshkar)                           |
+| [sauravmaheshkar.github.io](https://github.com/SauravMaheshkar/sauravmaheshkar.github.io)       |
+| [X-Ray-Image-Classification](https://github.com/SauravMaheshkar/X-Ray-Image-Classification)     |
 
 </details>
 <br>
