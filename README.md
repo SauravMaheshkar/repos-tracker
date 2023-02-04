@@ -17,16 +17,14 @@
 <summary>tracker-geometric-learning</summary>
 <br>
 
-| Repository Name                                                                         |
-|:----------------------------------------------------------------------------------------|
-| [cwn](https://github.com/SauravMaheshkar/cwn)                                           |
-| [egnn](https://github.com/SauravMaheshkar/egnn)                                         |
-| [gnn-lspe](https://github.com/SauravMaheshkar/gnn-lspe)                                 |
-| [GraphMLP-Flax](https://github.com/SauravMaheshkar/GraphMLP-Flax)                       |
-| [NBFNet](https://github.com/SauravMaheshkar/NBFNet)                                     |
-| [Node-Classification](https://github.com/SauravMaheshkar/Node-Classification)           |
-| [Representative-Selection](https://github.com/SauravMaheshkar/Representative-Selection) |
-| [SSL-Graphs](https://github.com/SauravMaheshkar/SSL-Graphs)                             |
+| Repository Name                                                                           |
+|:------------------------------------------------------------------------------------------|
+| [Graph-Property-Prediction](https://github.com/SauravMaheshkar/Graph-Property-Prediction) |
+| [GraphMLP-Flax](https://github.com/SauravMaheshkar/GraphMLP-Flax)                         |
+| [Link-Property-Prediction](https://github.com/SauravMaheshkar/Link-Property-Prediction)   |
+| [Node-Property-Prediction](https://github.com/SauravMaheshkar/Node-Property-Prediction)   |
+| [Representative-Selection](https://github.com/SauravMaheshkar/Representative-Selection)   |
+| [SSL-Graphs](https://github.com/SauravMaheshkar/SSL-Graphs)                               |
 
 </details>
 <br>
@@ -79,6 +77,7 @@
 | [binary-exploitation-template](https://github.com/SauravMaheshkar/binary-exploitation-template) |
 | [Compressed-DNNs-Forget](https://github.com/SauravMaheshkar/Compressed-DNNs-Forget)             |
 | [dotfiles](https://github.com/SauravMaheshkar/dotfiles)                                         |
+| [egnn](https://github.com/SauravMaheshkar/egnn)                                                 |
 | [flax-package-template](https://github.com/SauravMaheshkar/flax-package-template)               |
 | [Hot-Dog-Not-Hot-Dog](https://github.com/SauravMaheshkar/Hot-Dog-Not-Hot-Dog)                   |
 | [kaggle](https://github.com/SauravMaheshkar/kaggle)                                             |
