@@ -38,7 +38,6 @@
 
 | Repository Name                                                                     |
 |:------------------------------------------------------------------------------------|
-| [FNet-Flax](https://github.com/SauravMaheshkar/FNet-Flax)                           |
 | [gMLP](https://github.com/SauravMaheshkar/gMLP)                                     |
 | [Knowledge-Distillation](https://github.com/SauravMaheshkar/Knowledge-Distillation) |
 
@@ -64,7 +63,6 @@
 
 | Repository Name                                                                         |
 |:----------------------------------------------------------------------------------------|
-| [FNet-Flax](https://github.com/SauravMaheshkar/FNet-Flax)                               |
 | [gMLP](https://github.com/SauravMaheshkar/gMLP)                                         |
 | [Radiology-Classification](https://github.com/SauravMaheshkar/Radiology-Classification) |
 
