@@ -71,23 +71,18 @@
 <summary>tracker-misc</summary>
 <br>
 
-| Repository Name                                                                                 |
-|:------------------------------------------------------------------------------------------------|
-| [binary-exploitation-template](https://github.com/SauravMaheshkar/binary-exploitation-template) |
-| [Compressed-DNNs-Forget](https://github.com/SauravMaheshkar/Compressed-DNNs-Forget)             |
-| [dotfiles](https://github.com/SauravMaheshkar/dotfiles)                                         |
-| [egnn](https://github.com/SauravMaheshkar/egnn)                                                 |
-| [flax-package-template](https://github.com/SauravMaheshkar/flax-package-template)               |
-| [Hot-Dog-Not-Hot-Dog](https://github.com/SauravMaheshkar/Hot-Dog-Not-Hot-Dog)                   |
-| [kaggle](https://github.com/SauravMaheshkar/kaggle)                                             |
-| [Lane-Detection-PyTorch](https://github.com/SauravMaheshkar/Lane-Detection-PyTorch)             |
-| [meta-pretraining](https://github.com/SauravMaheshkar/meta-pretraining)                         |
-| [Personal-Notes](https://github.com/SauravMaheshkar/Personal-Notes)                             |
-| [python-template](https://github.com/SauravMaheshkar/python-template)                           |
-| [repos-tracker](https://github.com/SauravMaheshkar/repos-tracker)                               |
-| [rtdl](https://github.com/SauravMaheshkar/rtdl)                                                 |
-| [SauravMaheshkar](https://github.com/SauravMaheshkar/SauravMaheshkar)                           |
-| [sauravmaheshkar.github.io](https://github.com/SauravMaheshkar/sauravmaheshkar.github.io)       |
+| Repository Name                                                                           |
+|:------------------------------------------------------------------------------------------|
+| [dotfiles](https://github.com/SauravMaheshkar/dotfiles)                                   |
+| [egnn](https://github.com/SauravMaheshkar/egnn)                                           |
+| [flax-package-template](https://github.com/SauravMaheshkar/flax-package-template)         |
+| [Hot-Dog-Not-Hot-Dog](https://github.com/SauravMaheshkar/Hot-Dog-Not-Hot-Dog)             |
+| [kaggle](https://github.com/SauravMaheshkar/kaggle)                                       |
+| [Personal-Notes](https://github.com/SauravMaheshkar/Personal-Notes)                       |
+| [python-template](https://github.com/SauravMaheshkar/python-template)                     |
+| [repos-tracker](https://github.com/SauravMaheshkar/repos-tracker)                         |
+| [SauravMaheshkar](https://github.com/SauravMaheshkar/SauravMaheshkar)                     |
+| [sauravmaheshkar.github.io](https://github.com/SauravMaheshkar/sauravmaheshkar.github.io) |
 
 </details>
 <br>
