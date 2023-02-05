@@ -76,7 +76,6 @@
 | [dotfiles](https://github.com/SauravMaheshkar/dotfiles)                                   |
 | [egnn](https://github.com/SauravMaheshkar/egnn)                                           |
 | [flax-package-template](https://github.com/SauravMaheshkar/flax-package-template)         |
-| [Hot-Dog-Not-Hot-Dog](https://github.com/SauravMaheshkar/Hot-Dog-Not-Hot-Dog)             |
 | [kaggle](https://github.com/SauravMaheshkar/kaggle)                                       |
 | [Personal-Notes](https://github.com/SauravMaheshkar/Personal-Notes)                       |
 | [python-template](https://github.com/SauravMaheshkar/python-template)                     |
