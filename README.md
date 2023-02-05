@@ -23,7 +23,6 @@
 | [GraphMLP-Flax](https://github.com/SauravMaheshkar/GraphMLP-Flax)                         |
 | [Link-Property-Prediction](https://github.com/SauravMaheshkar/Link-Property-Prediction)   |
 | [Node-Property-Prediction](https://github.com/SauravMaheshkar/Node-Property-Prediction)   |
-| [Representative-Selection](https://github.com/SauravMaheshkar/Representative-Selection)   |
 | [SSL-Graphs](https://github.com/SauravMaheshkar/SSL-Graphs)                               |
 
 </details>
@@ -85,7 +84,6 @@
 | [meta-pretraining](https://github.com/SauravMaheshkar/meta-pretraining)                         |
 | [Personal-Notes](https://github.com/SauravMaheshkar/Personal-Notes)                             |
 | [python-template](https://github.com/SauravMaheshkar/python-template)                           |
-| [RayTracing](https://github.com/SauravMaheshkar/RayTracing)                                     |
 | [repos-tracker](https://github.com/SauravMaheshkar/repos-tracker)                               |
 | [rtdl](https://github.com/SauravMaheshkar/rtdl)                                                 |
 | [SauravMaheshkar](https://github.com/SauravMaheshkar/SauravMaheshkar)                           |
