@@ -5,7 +5,6 @@
 
 | Repository Name                                                                         |
 |:----------------------------------------------------------------------------------------|
-| [dino](https://github.com/SauravMaheshkar/dino)                                         |
 | [Self-Supervised-Learning](https://github.com/SauravMaheshkar/Self-Supervised-Learning) |
 | [SSL-Graphs](https://github.com/SauravMaheshkar/SSL-Graphs)                             |
 
