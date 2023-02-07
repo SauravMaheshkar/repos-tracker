@@ -99,7 +99,6 @@
 | [ivy](https://github.com/SauravMaheshkar/ivy)                             |
 | [jaxopt](https://github.com/SauravMaheshkar/jaxopt)                       |
 | [kfac-jax](https://github.com/SauravMaheshkar/kfac-jax)                   |
-| [nerfstudio](https://github.com/SauravMaheshkar/nerfstudio)               |
 | [optax](https://github.com/SauravMaheshkar/optax)                         |
 | [pytorch_geometric](https://github.com/SauravMaheshkar/pytorch_geometric) |
 | [t5x](https://github.com/SauravMaheshkar/t5x)                             |
