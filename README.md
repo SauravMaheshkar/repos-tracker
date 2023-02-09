@@ -92,7 +92,6 @@
 
 | Repository Name                                                           |
 |:--------------------------------------------------------------------------|
-| [chex](https://github.com/SauravMaheshkar/chex)                           |
 | [flax](https://github.com/SauravMaheshkar/flax)                           |
 | [geoopt](https://github.com/SauravMaheshkar/geoopt)                       |
 | [ivy](https://github.com/SauravMaheshkar/ivy)                             |
