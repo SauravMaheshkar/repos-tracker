@@ -73,7 +73,6 @@
 | Repository Name                                                                           |
 |:------------------------------------------------------------------------------------------|
 | [dotfiles](https://github.com/SauravMaheshkar/dotfiles)                                   |
-| [egnn](https://github.com/SauravMaheshkar/egnn)                                           |
 | [flax-package-template](https://github.com/SauravMaheshkar/flax-package-template)         |
 | [kaggle](https://github.com/SauravMaheshkar/kaggle)                                       |
 | [Personal-Notes](https://github.com/SauravMaheshkar/Personal-Notes)                       |
@@ -92,9 +91,9 @@
 
 | Repository Name                                                           |
 |:--------------------------------------------------------------------------|
+| [egnn](https://github.com/SauravMaheshkar/egnn)                           |
 | [flax](https://github.com/SauravMaheshkar/flax)                           |
 | [geoopt](https://github.com/SauravMaheshkar/geoopt)                       |
-| [ivy](https://github.com/SauravMaheshkar/ivy)                             |
 | [jaxopt](https://github.com/SauravMaheshkar/jaxopt)                       |
 | [pytorch_geometric](https://github.com/SauravMaheshkar/pytorch_geometric) |
 | [t5x](https://github.com/SauravMaheshkar/t5x)                             |
