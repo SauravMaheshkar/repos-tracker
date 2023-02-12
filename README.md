@@ -96,7 +96,6 @@
 | [jaxopt](https://github.com/SauravMaheshkar/jaxopt)                       |
 | [pytorch_geometric](https://github.com/SauravMaheshkar/pytorch_geometric) |
 | [t5x](https://github.com/SauravMaheshkar/t5x)                             |
-| [trax](https://github.com/SauravMaheshkar/trax)                           |
 
 </details>
 <br>
