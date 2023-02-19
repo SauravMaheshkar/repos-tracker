@@ -91,7 +91,6 @@
 
 | Repository Name                                                           |
 |:--------------------------------------------------------------------------|
-| [egnn](https://github.com/SauravMaheshkar/egnn)                           |
 | [flax](https://github.com/SauravMaheshkar/flax)                           |
 | [jaxopt](https://github.com/SauravMaheshkar/jaxopt)                       |
 | [pytorch_geometric](https://github.com/SauravMaheshkar/pytorch_geometric) |
