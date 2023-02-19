@@ -73,7 +73,6 @@
 | Repository Name                                                                           |
 |:------------------------------------------------------------------------------------------|
 | [dotfiles](https://github.com/SauravMaheshkar/dotfiles)                                   |
-| [flax-package-template](https://github.com/SauravMaheshkar/flax-package-template)         |
 | [kaggle](https://github.com/SauravMaheshkar/kaggle)                                       |
 | [Personal-Notes](https://github.com/SauravMaheshkar/Personal-Notes)                       |
 | [python-template](https://github.com/SauravMaheshkar/python-template)                     |
