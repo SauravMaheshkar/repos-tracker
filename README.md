@@ -91,6 +91,7 @@
 |:--------------------------------------------------------------------------|
 | [flax](https://github.com/SauravMaheshkar/flax)                           |
 | [jaxopt](https://github.com/SauravMaheshkar/jaxopt)                       |
+| [jax_cosmo](https://github.com/SauravMaheshkar/jax_cosmo)                 |
 | [pytorch_geometric](https://github.com/SauravMaheshkar/pytorch_geometric) |
 
 </details>
