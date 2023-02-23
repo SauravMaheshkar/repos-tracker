@@ -89,10 +89,16 @@
 
 | Repository Name                                                           |
 |:--------------------------------------------------------------------------|
+| [astropy](https://github.com/SauravMaheshkar/astropy)                     |
+| [cuml](https://github.com/SauravMaheshkar/cuml)                           |
 | [flax](https://github.com/SauravMaheshkar/flax)                           |
 | [jaxopt](https://github.com/SauravMaheshkar/jaxopt)                       |
 | [jax_cosmo](https://github.com/SauravMaheshkar/jax_cosmo)                 |
+| [nerfacc](https://github.com/SauravMaheshkar/nerfacc)                     |
+| [optax](https://github.com/SauravMaheshkar/optax)                         |
+| [peft](https://github.com/SauravMaheshkar/peft)                           |
 | [pytorch_geometric](https://github.com/SauravMaheshkar/pytorch_geometric) |
+| [trlx](https://github.com/SauravMaheshkar/trlx)                           |
 
 </details>
 <br>
