@@ -33,7 +33,6 @@
 
 | Repository Name                                                                     |
 |:------------------------------------------------------------------------------------|
-| [gMLP](https://github.com/SauravMaheshkar/gMLP)                                     |
 | [Knowledge-Distillation](https://github.com/SauravMaheshkar/Knowledge-Distillation) |
 
 </details>
@@ -58,7 +57,6 @@
 
 | Repository Name                                                                         |
 |:----------------------------------------------------------------------------------------|
-| [gMLP](https://github.com/SauravMaheshkar/gMLP)                                         |
 | [Radiology-Classification](https://github.com/SauravMaheshkar/Radiology-Classification) |
 
 </details>
@@ -87,17 +85,19 @@
 <summary>tracker-temp</summary>
 <br>
 
-| Repository Name                                             |
-|:------------------------------------------------------------|
-| [astropy](https://github.com/SauravMaheshkar/astropy)       |
-| [cuml](https://github.com/SauravMaheshkar/cuml)             |
-| [flax](https://github.com/SauravMaheshkar/flax)             |
-| [jaxopt](https://github.com/SauravMaheshkar/jaxopt)         |
-| [jax_cosmo](https://github.com/SauravMaheshkar/jax_cosmo)   |
-| [nerfacc](https://github.com/SauravMaheshkar/nerfacc)       |
-| [nerfstudio](https://github.com/SauravMaheshkar/nerfstudio) |
-| [optax](https://github.com/SauravMaheshkar/optax)           |
-| [peft](https://github.com/SauravMaheshkar/peft)             |
+| Repository Name                                           |
+|:----------------------------------------------------------|
+| [astropy](https://github.com/SauravMaheshkar/astropy)     |
+| [cuml](https://github.com/SauravMaheshkar/cuml)           |
+| [deepchem](https://github.com/SauravMaheshkar/deepchem)   |
+| [flax](https://github.com/SauravMaheshkar/flax)           |
+| [jaxopt](https://github.com/SauravMaheshkar/jaxopt)       |
+| [jax_cosmo](https://github.com/SauravMaheshkar/jax_cosmo) |
+| [nerfacc](https://github.com/SauravMaheshkar/nerfacc)     |
+| [optax](https://github.com/SauravMaheshkar/optax)         |
+| [optimum](https://github.com/SauravMaheshkar/optimum)     |
+| [peft](https://github.com/SauravMaheshkar/peft)           |
+| [pyg-lib](https://github.com/SauravMaheshkar/pyg-lib)     |
 
 </details>
 <br>
