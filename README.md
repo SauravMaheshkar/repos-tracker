@@ -98,7 +98,6 @@
 | [optax](https://github.com/SauravMaheshkar/optax)                         |
 | [peft](https://github.com/SauravMaheshkar/peft)                           |
 | [pytorch_geometric](https://github.com/SauravMaheshkar/pytorch_geometric) |
-| [trlx](https://github.com/SauravMaheshkar/trlx)                           |
 
 </details>
 <br>
