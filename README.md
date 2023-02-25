@@ -93,7 +93,6 @@
 | [flax](https://github.com/SauravMaheshkar/flax)           |
 | [jaxopt](https://github.com/SauravMaheshkar/jaxopt)       |
 | [jax_cosmo](https://github.com/SauravMaheshkar/jax_cosmo) |
-| [nerfacc](https://github.com/SauravMaheshkar/nerfacc)     |
 | [optax](https://github.com/SauravMaheshkar/optax)         |
 | [optimum](https://github.com/SauravMaheshkar/optimum)     |
 | [peft](https://github.com/SauravMaheshkar/peft)           |
