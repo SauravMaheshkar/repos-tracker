@@ -88,13 +88,11 @@
 | Repository Name                                           |
 |:----------------------------------------------------------|
 | [cuml](https://github.com/SauravMaheshkar/cuml)           |
-| [deepchem](https://github.com/SauravMaheshkar/deepchem)   |
 | [flax](https://github.com/SauravMaheshkar/flax)           |
 | [jaxopt](https://github.com/SauravMaheshkar/jaxopt)       |
 | [jax_cosmo](https://github.com/SauravMaheshkar/jax_cosmo) |
 | [lightly](https://github.com/SauravMaheshkar/lightly)     |
 | [optax](https://github.com/SauravMaheshkar/optax)         |
-| [optimum](https://github.com/SauravMaheshkar/optimum)     |
 | [peft](https://github.com/SauravMaheshkar/peft)           |
 | [pyg-lib](https://github.com/SauravMaheshkar/pyg-lib)     |
 
