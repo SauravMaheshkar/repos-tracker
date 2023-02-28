@@ -87,7 +87,6 @@
 
 | Repository Name                                           |
 |:----------------------------------------------------------|
-| [astropy](https://github.com/SauravMaheshkar/astropy)     |
 | [cuml](https://github.com/SauravMaheshkar/cuml)           |
 | [deepchem](https://github.com/SauravMaheshkar/deepchem)   |
 | [flax](https://github.com/SauravMaheshkar/flax)           |
