@@ -88,6 +88,7 @@
 | Repository Name                                           |
 |:----------------------------------------------------------|
 | [cuml](https://github.com/SauravMaheshkar/cuml)           |
+| [cupy](https://github.com/SauravMaheshkar/cupy)           |
 | [flax](https://github.com/SauravMaheshkar/flax)           |
 | [jaxopt](https://github.com/SauravMaheshkar/jaxopt)       |
 | [jax_cosmo](https://github.com/SauravMaheshkar/jax_cosmo) |
