@@ -85,17 +85,18 @@
 <summary>tracker-temp</summary>
 <br>
 
-| Repository Name                                           |
-|:----------------------------------------------------------|
-| [cuml](https://github.com/SauravMaheshkar/cuml)           |
-| [cupy](https://github.com/SauravMaheshkar/cupy)           |
-| [flax](https://github.com/SauravMaheshkar/flax)           |
-| [jaxopt](https://github.com/SauravMaheshkar/jaxopt)       |
-| [jax_cosmo](https://github.com/SauravMaheshkar/jax_cosmo) |
-| [lightly](https://github.com/SauravMaheshkar/lightly)     |
-| [optax](https://github.com/SauravMaheshkar/optax)         |
-| [peft](https://github.com/SauravMaheshkar/peft)           |
-| [pyg-lib](https://github.com/SauravMaheshkar/pyg-lib)     |
+| Repository Name                                             |
+|:------------------------------------------------------------|
+| [cuml](https://github.com/SauravMaheshkar/cuml)             |
+| [cupy](https://github.com/SauravMaheshkar/cupy)             |
+| [DeepSpeed](https://github.com/SauravMaheshkar/DeepSpeed)   |
+| [flax](https://github.com/SauravMaheshkar/flax)             |
+| [JAX-GalSim](https://github.com/SauravMaheshkar/JAX-GalSim) |
+| [jaxopt](https://github.com/SauravMaheshkar/jaxopt)         |
+| [jax_cosmo](https://github.com/SauravMaheshkar/jax_cosmo)   |
+| [optax](https://github.com/SauravMaheshkar/optax)           |
+| [peft](https://github.com/SauravMaheshkar/peft)             |
+| [pyg-lib](https://github.com/SauravMaheshkar/pyg-lib)       |
 
 </details>
 <br>
