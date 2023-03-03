@@ -87,6 +87,7 @@
 
 | Repository Name                                             |
 |:------------------------------------------------------------|
+| [ColossalAI](https://github.com/SauravMaheshkar/ColossalAI) |
 | [cuml](https://github.com/SauravMaheshkar/cuml)             |
 | [cupy](https://github.com/SauravMaheshkar/cupy)             |
 | [DeepSpeed](https://github.com/SauravMaheshkar/DeepSpeed)   |
@@ -94,8 +95,8 @@
 | [JAX-GalSim](https://github.com/SauravMaheshkar/JAX-GalSim) |
 | [jaxopt](https://github.com/SauravMaheshkar/jaxopt)         |
 | [jax_cosmo](https://github.com/SauravMaheshkar/jax_cosmo)   |
+| [langchain](https://github.com/SauravMaheshkar/langchain)   |
 | [optax](https://github.com/SauravMaheshkar/optax)           |
-| [peft](https://github.com/SauravMaheshkar/peft)             |
 | [pyg-lib](https://github.com/SauravMaheshkar/pyg-lib)       |
 
 </details>
