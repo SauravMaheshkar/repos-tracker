@@ -98,10 +98,14 @@
 | [jaxopt](https://github.com/SauravMaheshkar/jaxopt)                   |
 | [jax_cosmo](https://github.com/SauravMaheshkar/jax_cosmo)             |
 | [langchain](https://github.com/SauravMaheshkar/langchain)             |
+| [mesh](https://github.com/SauravMaheshkar/mesh)                       |
 | [MLFastSim](https://github.com/SauravMaheshkar/MLFastSim)             |
 | [optax](https://github.com/SauravMaheshkar/optax)                     |
+| [polars](https://github.com/SauravMaheshkar/polars)                   |
 | [pyg-lib](https://github.com/SauravMaheshkar/pyg-lib)                 |
 | [PyHEP-resources](https://github.com/SauravMaheshkar/PyHEP-resources) |
+| [stdatamodels](https://github.com/SauravMaheshkar/stdatamodels)       |
+| [t5x](https://github.com/SauravMaheshkar/t5x)                         |
 
 </details>
 <br>
