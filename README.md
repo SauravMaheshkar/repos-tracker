@@ -91,7 +91,6 @@
 | [ColossalAI](https://github.com/SauravMaheshkar/ColossalAI)               |
 | [cuml](https://github.com/SauravMaheshkar/cuml)                           |
 | [cupy](https://github.com/SauravMaheshkar/cupy)                           |
-| [datamol](https://github.com/SauravMaheshkar/datamol)                     |
 | [DeepSpeed](https://github.com/SauravMaheshkar/DeepSpeed)                 |
 | [flax](https://github.com/SauravMaheshkar/flax)                           |
 | [geoopt](https://github.com/SauravMaheshkar/geoopt)                       |
@@ -99,7 +98,6 @@
 | [JAX-GalSim](https://github.com/SauravMaheshkar/JAX-GalSim)               |
 | [jaxopt](https://github.com/SauravMaheshkar/jaxopt)                       |
 | [jax_cosmo](https://github.com/SauravMaheshkar/jax_cosmo)                 |
-| [langchain](https://github.com/SauravMaheshkar/langchain)                 |
 | [mesh](https://github.com/SauravMaheshkar/mesh)                           |
 | [MLFastSim](https://github.com/SauravMaheshkar/MLFastSim)                 |
 | [pyg-lib](https://github.com/SauravMaheshkar/pyg-lib)                     |
