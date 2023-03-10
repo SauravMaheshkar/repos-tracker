@@ -89,7 +89,6 @@
 |:--------------------------------------------------------------------------|
 | [ci](https://github.com/SauravMaheshkar/ci)                               |
 | [ColossalAI](https://github.com/SauravMaheshkar/ColossalAI)               |
-| [cuml](https://github.com/SauravMaheshkar/cuml)                           |
 | [cupy](https://github.com/SauravMaheshkar/cupy)                           |
 | [DeepSpeed](https://github.com/SauravMaheshkar/DeepSpeed)                 |
 | [flax](https://github.com/SauravMaheshkar/flax)                           |
@@ -100,6 +99,7 @@
 | [jax_cosmo](https://github.com/SauravMaheshkar/jax_cosmo)                 |
 | [mesh](https://github.com/SauravMaheshkar/mesh)                           |
 | [MLFastSim](https://github.com/SauravMaheshkar/MLFastSim)                 |
+| [ott](https://github.com/SauravMaheshkar/ott)                             |
 | [pyg-lib](https://github.com/SauravMaheshkar/pyg-lib)                     |
 | [pytorch_geometric](https://github.com/SauravMaheshkar/pytorch_geometric) |
 | [t5x](https://github.com/SauravMaheshkar/t5x)                             |
