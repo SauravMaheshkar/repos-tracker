@@ -99,10 +99,10 @@
 | [jax_cosmo](https://github.com/SauravMaheshkar/jax_cosmo)                 |
 | [mesh](https://github.com/SauravMaheshkar/mesh)                           |
 | [MLFastSim](https://github.com/SauravMaheshkar/MLFastSim)                 |
-| [ott](https://github.com/SauravMaheshkar/ott)                             |
 | [pyg-lib](https://github.com/SauravMaheshkar/pyg-lib)                     |
 | [pytorch_geometric](https://github.com/SauravMaheshkar/pytorch_geometric) |
 | [t5x](https://github.com/SauravMaheshkar/t5x)                             |
+| [torchmd](https://github.com/SauravMaheshkar/torchmd)                     |
 | [trl](https://github.com/SauravMaheshkar/trl)                             |
 
 </details>
