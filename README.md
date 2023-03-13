@@ -97,8 +97,10 @@
 | [JAX-GalSim](https://github.com/SauravMaheshkar/JAX-GalSim)               |
 | [jaxopt](https://github.com/SauravMaheshkar/jaxopt)                       |
 | [jax_cosmo](https://github.com/SauravMaheshkar/jax_cosmo)                 |
+| [langchain](https://github.com/SauravMaheshkar/langchain)                 |
 | [mesh](https://github.com/SauravMaheshkar/mesh)                           |
 | [MLFastSim](https://github.com/SauravMaheshkar/MLFastSim)                 |
+| [ott](https://github.com/SauravMaheshkar/ott)                             |
 | [pyg-lib](https://github.com/SauravMaheshkar/pyg-lib)                     |
 | [pytorch_geometric](https://github.com/SauravMaheshkar/pytorch_geometric) |
 | [t5x](https://github.com/SauravMaheshkar/t5x)                             |
